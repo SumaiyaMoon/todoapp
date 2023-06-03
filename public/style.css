@@ -12,8 +12,8 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
      */
-     /* height: 120vh !important; */
-     background-repeat: repeat;
+     height: 150vh !important;
+     background-repeat: repeat !important;
 
      background-color: #cccccc;
      background-image: linear-gradient(rgb(52, 48, 48), rgb(29, 26, 73));
